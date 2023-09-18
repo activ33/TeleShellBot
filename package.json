@@ -9,7 +9,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "test": "node hello.js"
+    "test": "test"
   },
   "author": "marknote",
   "license": "MIT",
