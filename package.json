@@ -7,9 +7,10 @@
     "url": "https://github.com/marknote/TeleShellBot.git"
   },
   "main": "index.js",
+  "module":"hello.js",
   "scripts": {
     "start": "node index.js",
-    "test": "test"
+    "test": "node hello.js"
   },
   "author": "marknote",
   "license": "MIT",
